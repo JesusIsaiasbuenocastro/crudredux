@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "4444",
+      "precio": "450",
+      "id": 9
+    },
+    {
+      "nombre": "sirloin 450 grs",
+      "precio": "185",
+      "id": 12
+    },
+    {
+      "nombre": "tequila 10ml",
+      "precio": "89",
+      "id": 13
+    },
+    {
+      "nombre": "Costilla y bonless",
+      "precio": "250",
+      "id": 14
+    },
+    {
+      "nombre": "tequila",
+      "precio": 123,
+      "id": 15
+    },
+    {
+      "nombre": "123",
+      "precio": 123,
+      "id": 16
+    }
+  ]
+}
